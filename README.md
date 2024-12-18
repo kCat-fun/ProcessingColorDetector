@@ -29,3 +29,4 @@ detector = new ColorDetector(width, height, 350, 10, 0.6, 0.6);
 
 ## 実演動画
 以下のXの投稿よりご覧ください。<br />
+https://x.com/kcat_fun/status/1869362377625653733
